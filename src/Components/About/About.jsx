@@ -25,12 +25,12 @@ const About = () => {
             </p>
             <p>
               I'm currently exploring Full Stack Development, focusing on the
-              MERN stack, GSAP animations, and AI-driven solutions. I’ve built
-              React applications using APIs and enjoy creating dynamic user
-              experiences. Additionally, my academic project, Video Anomaly
+              MERN stack,GenAI, GSAP animations, and AI-driven solutions. I’ve built
+              React applications using APIs and enjoy creating dynamic user experiences.
+              {/* Additionally, my academic project, Video Anomaly
               Surveillance Detection, focuses on utilizing deep Multiple
               Instance Learning (MIL) ranking loss with an LAV filter for
-              accurate anomaly detection in segmented video data.
+              accurate anomaly detection in segmented video data. */}
             </p>
             <p>Always eager to learn, innovate, and collaborate 🚀.</p>
           </div>

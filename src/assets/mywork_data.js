@@ -3,9 +3,10 @@ import project2_img from "../assets/opensource.png";
 import project3_img from "../assets/healthmeetpic.png";
 import project4_img from "../assets/Roshamboimg.png";
 import project5_img from "../assets/pokemon-img.png";
-import project6_img from "../assets/portfolio-img.png";
+import project9_img from "../assets/portfolio-img.png";
 import project7_img from "../assets/calculator.png";
 import project8_img from "../assets/Academic.png";
+import project6_img from "../assets/jsonschemaimg.png";
 const mywork_data = [
   {
     w_no: 1,
@@ -43,12 +44,14 @@ const mywork_data = [
     w_desc: "A React-based web application made using the PokeAPI.",
     w_link: "https://pokemon-search-anyone.netlify.app/",
   },
-  {
+ {
     w_no: 6,
-    w_name: "Portfolio Website",
+    w_name: "JSON Schema Builder",
     w_img: project6_img,
-    w_desc: "A simple portfolio website",
-    w_link: "https://ananya-mishra-portfolio-website.netlify.app/",
+    w_desc:
+      "A React-based application for building and validating JSON schemas.",
+    w_link:
+      "https://json-schema-builder-hrone-task.netlify.app/",
   },
   {
     w_no: 7,
@@ -66,6 +69,13 @@ const mywork_data = [
     w_link:
       "https://github.com/Ananyamishra08/-Video-Anomaly-Surveillance-Detection",
   },
+  {
+    w_no: 9,
+    w_name: "Portfolio Website",
+    w_img: project9_img,
+    w_desc: "A simple portfolio website",
+    w_link: "https://ananya-mishra-portfolio-website.netlify.app/",
+  }
 ];
 
 export default mywork_data;

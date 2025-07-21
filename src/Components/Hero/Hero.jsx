@@ -1,8 +1,7 @@
-import React from "react";
 import "./Hero.css";
 import profile_img from "../../assets/profile.jpg";
 import { Typewriter } from "react-simple-typewriter";
-import resume from "../../assets/mostrecent resume_capgimini.pdf";
+import resume from "../../assets/Ananya_Mishra_resume_3_ (7).pdf";
 
 const Hero = () => {
   return (
