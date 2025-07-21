@@ -5,8 +5,9 @@ import project4_img from "../assets/Roshamboimg.png";
 import project5_img from "../assets/pokemon-img.png";
 import project9_img from "../assets/portfolio-img.png";
 import project7_img from "../assets/calculator.png";
-import project8_img from "../assets/Academic.png";
+import project10_img from "../assets/Academic.png";
 import project6_img from "../assets/jsonschemaimg.png";
+import project8_img from "../assets/Project10.png";
 const mywork_data = [
   {
     w_no: 1,
@@ -51,7 +52,7 @@ const mywork_data = [
     w_desc:
       "A React-based application for building and validating JSON schemas.",
     w_link:
-      "https://json-schema-builder-hrone-task.netlify.app/",
+      "https://json-schema-builder-reactjs.netlify.app/",
   },
   {
     w_no: 7,
@@ -62,12 +63,10 @@ const mywork_data = [
   },
   {
     w_no: 8,
-    w_name: "Anomaly Detection (Academic Project)",
+    w_name: "Pawfect City | Landing Page ",
     w_img: project8_img,
-    w_desc:
-      "Utilizing deep Multiple Instance Learning (MIL) ranking loss with an LAV filter for accurate anomaly detection in segmented video data.",
-    w_link:
-      "https://github.com/Ananyamishra08/-Video-Anomaly-Surveillance-Detection",
+    w_desc: "A landing page for a pet adoption website",
+    w_link: "https://pawfect-city.netlify.app/",
   },
   {
     w_no: 9,
@@ -75,6 +74,15 @@ const mywork_data = [
     w_img: project9_img,
     w_desc: "A simple portfolio website",
     w_link: "https://ananya-mishra-portfolio-website.netlify.app/",
+  },
+  {
+    w_no: 10,
+    w_name: "Anomaly Detection (Academic Project)",
+    w_img: project10_img,
+    w_desc:
+      "Utilizing deep Multiple Instance Learning (MIL) ranking loss with an LAV filter for accurate anomaly detection in segmented video data.",
+    w_link:
+      "https://github.com/Ananyamishra08/-Video-Anomaly-Surveillance-Detection",
   }
 ];
 
